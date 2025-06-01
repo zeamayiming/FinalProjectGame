@@ -64,11 +64,11 @@ python main.py
 
 ## 技術需求
 
-- Python 3.x
+- Python 3
 - numpy==1.24.3
 - matplotlib==3.7.1
 - pandas==2.0.2
-- pygame（將自動安裝）
+- pygame
 
 ## 注意事項
 
